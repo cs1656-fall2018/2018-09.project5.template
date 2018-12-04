@@ -1,5 +1,5 @@
 # Repository: 2018-09.project-5.template
-# Assignment #3: Classification Systems 
+# Assignment #5: Classification Systems 
 
 > Course: **[CS 1656 - Introduction to Data Science](http://cs1656.org)** (CS 2056) -- Fall 2018   
 > Instructor: [Alexandros Labrinidis](http://labrinidis.cs.pitt.edu)  
